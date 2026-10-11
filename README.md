@@ -1,1 +1,1 @@
-# character-counter
+# character-counter![Uploading image.png…]()
